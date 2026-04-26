@@ -47,34 +47,12 @@
 - 📫 Reach me at → **padhimayank@gmail.com**
 
 ***
-
-## 🛠️ Tech Stack
-
-### ⚙️ Infrastructure & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,nginx,linux,gcp,git" />
+  <img src="https://skillicons.dev/icons?i=python,go,fastapi,docker,kubernetes,linux,gcp,git" height="36" />
 </p>
-
-### 🤖 AI / ML
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn" />
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangChain" />
-</p>
-
-### 🗄️ Data & Messaging
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,elasticsearch,kafka,graphql" />
-</p>
-
-### 🌐 Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=python,go,fastapi,flask,nodejs" />
-</p>
-
-### 📊 Observability
-<p>
-  <img src="https://skillicons.dev/icons?i=grafana,postman" />
-  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,postgresql,redis,kafka,elasticsearch,grafana,nginx" height="36" />
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="36" height="36" alt="LangChain" />
 </p>
 
 ***
