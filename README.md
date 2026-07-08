@@ -60,12 +60,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diclo-fenac&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f98a3&icon_color=4f98a3&text_color=c9d1d9" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=Diclo-fenac&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f98a3&icon_color=4f98a3&text_color=c9d1d9" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diclo-fenac&theme=tokyonight&hide_border=true&background=0d1117&ring=4f98a3&fire=4f98a3&currStreakLabel=4f98a3" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Diclo-fenac&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f98a3&text_color=c9d1d9&layout=compact" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs?username=Diclo-fenac&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f98a3&text_color=c9d1d9&layout=compact" width="40%" alt="Top Languages" />
 </p>
 
 ***
