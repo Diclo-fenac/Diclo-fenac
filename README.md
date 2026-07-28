@@ -5,11 +5,6 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Diclo-fenac&label=Profile+Views&color=4f98a3&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Diclo-fenac?label=Followers&style=flat-square&color=4f98a3" alt="GitHub Followers" />
-</p>
-
 <div align="center">
   <p>
     <a href="https://github.com/Diclo-fenac" target="_blank">
@@ -20,9 +15,6 @@
     </a>
     <a href="https://twitter.com/mium_onit" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-    </a>
-    <a href="https://leetcode.com/Diclofenac/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
     </a>
     <a href="https://www.mayankpadhi.com/" target="_blank">
       <img src="https://img.shields.io/badge/Website-4F98A3?style=for-the-badge&logo=safari&logoColor=white" />
@@ -53,19 +45,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,postgresql,redis,kafka,elasticsearch,grafana,nginx" height="36" />
   <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="36" height="36" alt="LangChain" />
-</p>
-
-***
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=Diclo-fenac&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f98a3&icon_color=4f98a3&text_color=c9d1d9" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diclo-fenac&theme=tokyonight&hide_border=true&background=0d1117&ring=4f98a3&fire=4f98a3&currStreakLabel=4f98a3" width="48%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs?username=Diclo-fenac&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f98a3&text_color=c9d1d9&layout=compact" width="40%" alt="Top Languages" />
 </p>
 
 ***
